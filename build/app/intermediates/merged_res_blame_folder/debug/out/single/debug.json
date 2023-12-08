@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmea\\.gradle\\daemon\\7.5\\com.abuarin.library_app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ahmea\\.gradle\\daemon\\7.5\\com.abuarin.library_app-main-19:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmea\\.gradle\\daemon\\7.5\\com.abuarin.library_app-merged_res-25:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ahmea\\.gradle\\daemon\\7.5\\com.abuarin.library_app-main-19:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmea\\.gradle\\daemon\\7.5\\com.abuarin.library_app-merged_res-25:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\ahmea\\.gradle\\daemon\\7.5\\com.abuarin.library_app-main-19:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmea\\.gradle\\daemon\\7.5\\com.abuarin.library_app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ahmea\\.gradle\\daemon\\7.5\\com.abuarin.library_app-main-19:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmea\\.gradle\\daemon\\7.5\\com.abuarin.library_app-merged_res-25:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ahmea\\.gradle\\daemon\\7.5\\com.abuarin.library_app-main-19:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmea\\.gradle\\daemon\\7.5\\com.abuarin.library_app-merged_res-25:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ahmea\\.gradle\\daemon\\7.5\\com.abuarin.library_app-main-19:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.abuarin.library_app-merged_res-25:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.abuarin.library_app-main-19:/mipmap-xxhdpi/ic_launcher_background.png"
+    }
+]
