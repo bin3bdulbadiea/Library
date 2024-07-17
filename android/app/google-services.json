@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "921001407017",
+    "project_id": "library-app-28150",
+    "storage_bucket": "library-app-28150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921001407017:android:a5117c489a73b90a8f6238",
+        "android_client_info": {
+          "package_name": "com.library.lib_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921001407017-rtgtso6q9c0f6crhjll0vfmt265eigr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKBbWmKvtW5BoUGFlK8-e5J74axeSxns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921001407017-rtgtso6q9c0f6crhjll0vfmt265eigr9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "921001407017-765ookld4he95kmj3seerel88gnle1gl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abuarin.libraryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
